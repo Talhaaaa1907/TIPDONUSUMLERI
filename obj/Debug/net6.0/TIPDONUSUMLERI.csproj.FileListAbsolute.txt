@@ -1,0 +1,15 @@
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\bin\Debug\net6.0\TIPDONUSUMLERI.exe
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\bin\Debug\net6.0\TIPDONUSUMLERI.deps.json
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\bin\Debug\net6.0\TIPDONUSUMLERI.runtimeconfig.json
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\bin\Debug\net6.0\TIPDONUSUMLERI.dll
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\bin\Debug\net6.0\ref\TIPDONUSUMLERI.dll
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\bin\Debug\net6.0\TIPDONUSUMLERI.pdb
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\obj\Debug\net6.0\TIPDONUSUMLERI.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\obj\Debug\net6.0\TIPDONUSUMLERI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\obj\Debug\net6.0\TIPDONUSUMLERI.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\obj\Debug\net6.0\TIPDONUSUMLERI.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\obj\Debug\net6.0\TIPDONUSUMLERI.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\obj\Debug\net6.0\TIPDONUSUMLERI.dll
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\obj\Debug\net6.0\ref\TIPDONUSUMLERI.dll
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\obj\Debug\net6.0\TIPDONUSUMLERI.pdb
+C:\Users\talha\OneDrive\Masaüstü\TIPDONUSUMLERI\obj\Debug\net6.0\TIPDONUSUMLERI.genruntimeconfig.cache
